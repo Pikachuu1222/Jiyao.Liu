@@ -1,13 +1,11 @@
 ---
-title: scikit-learn
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: "Refurnishing the System"
+date: 2020-12-01
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+## Project Overview
 
-<!--more-->
+This project focuses on creating a closed-loop furniture system in Glasgow for urban nomads.
+
+- **Location**: Glasgow, UK
+- **Time**: Winter 2020
