@@ -1,10 +1,10 @@
 ---
-title: "个人简介"
+title: "Personal Introduction"
 date: 2024-11-27
 author: "Jiyao Liu"
 ---
 
-## 个人简介
+## Personal Introduction
 
 Jiyao Liu is a multidisciplinary professional with expertise in Human-Computer Interaction (HCI), Artificial Intelligence (AI), and innovative design. She holds a Master’s in Design Innovation and Interaction Design from the Glasgow School of Art and dual Bachelor’s degrees in Education and Finance from East China Normal University. Jiyao is passionate about creating user-centered experiences that seamlessly integrate technology with human interaction. Her skills span UX/UI design, wearable technology, AI-driven products, and digital media.
 
@@ -14,5 +14,5 @@ Her design philosophy emphasizes the intersection of technology, design, and soc
 
 ![Jiyao Liu](assets/images/jiyao-photo.jpg)
 
-### 联系方式
-- 电子邮件: [Jiyao.L@outlook.com](mailto:Jiyao.L@outlook.com)
+### Contact Information
+- Email: [Jiyao.L@outlook.com](mailto:Jiyao.L@outlook.com)
