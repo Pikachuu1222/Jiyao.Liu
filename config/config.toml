@@ -1,0 +1,13 @@
+baseURL = "https://yourwebsite.com"
+languageCode = "en-us"
+title = "Jiyao Liu's Professional Website"
+theme = "academic-cv"
+paginate = 10
+
+[params]
+  description = "UX/UI Designer | HCI Specialist | AI Product Manager"
+  author = "Jiyao Liu"
+  social = [
+    { name = "linkedin", url = "https://linkedin.com/in/jiyaoliu" },
+    { name = "github", url = "https://github.com/jiyaoliu" }
+  ]
