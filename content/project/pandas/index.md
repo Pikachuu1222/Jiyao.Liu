@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: "Active Planet"
+date: 2021-06-01
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+## Project Overview
 
-<!--more-->
+"Active Planet" is a motion-sensing game designed for overweight children to encourage physical activity with peers or family members in public spaces.
+
+- **Location**: London, UK
+- **Time**: Summer 2021
